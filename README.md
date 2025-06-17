@@ -1,9 +1,30 @@
-<h1 align="center">Hi 👋, I'm Juan Calero aka codeSpecter</h1>
-<h3 align="center">A passionate Full Stack Developer from Mexico 🇲🇽</h3>
+<h1 align="center">Juan Carlos Calero - @Djancode</h1>
+<h3 align="center">Desarrollador apasionado por crear experiencias únicas con código</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=juan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="juan-dev" />
 </p>
+
+---
+
+### 🚀 Sobre mí
+
+- 🎯 Fullstack developer con foco actual en **Java + Spring Boot + Oracle**
+- ⚡ Me apasiona construir interfaces con **Vue.js** y **Tailwind CSS**
+- 📍 Desde México, creando con propósito y diseño claro
+- 🧠 Siempre aprendiendo: Kubernetes, Docker y Clean Code
+- 🤝 Me interesa colaborar en proyectos **open source** e ideas disruptivas
+
+---
+
+### 🛠️ Tecnologías de mi día a día
+
+```text
+Backend      ░ Java · Spring Boot · Maven · REST APIs
+Frontend     ░ Vue.js · Tailwind CSS · JavaScript (ES6+)
+Base de datos░ Oracle · PostgreSQL · Hibernate
+DevOps       ░ Docker · Git · Linux · GitHub Actions
+Testing      ░ JUnit · Mockito · Spock
 
 ---
 
