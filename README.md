@@ -1,75 +1,89 @@
-<h1 align="center">Juan Carlos Calero - @Djancode</h1>
-<h3 align="center">Desarrollador apasionado por crear experiencias únicas con código</h3>
-
+<h1 align="center">Juan Carlos Calero</h1>
+<h3 align="center">Desarrollador apasionado en crear soluciones únicas en código</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=juan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="juan-dev" />
 </p>
 
----
-
-### 🚀 Sobre mí
-
-- 🎯 Fullstack developer con foco actual en **Java + Spring Boot + Oracle**
-- ⚡ Me apasiona construir interfaces con **Vue.js** y **Tailwind CSS**
-- 📍 Desde México, creando con propósito y diseño claro
-- 🧠 Siempre aprendiendo: Kubernetes, Docker y Clean Code
-- 🤝 Me interesa colaborar en proyectos **open source** e ideas disruptivas
+&nbsp;
 
 ---
 
-### 🛠️ Tecnologías de mi día a día
+### ✨ Sobre Mí
+Soy un desarrollador ***fullstack*** con mayor afinidad hacia las tecnologías ***frontend***, me encanta construir y proponer soluciones limpias, mantenibles y escalables buscando generar siempre una excelente experiencia para el usuario.
 
-```text
-Backend      ░ Java · Spring Boot · Maven · REST APIs
-Frontend     ░ Vue.js · Tailwind CSS · JavaScript (ES6+)
-Base de datos░ Oracle · PostgreSQL · Hibernate
-DevOps       ░ Docker · Git · Linux · GitHub Actions
-Testing      ░ JUnit · Mockito · Spock
+Soy un gran entusiasta de  las tecnologías basadas en ***JS*** y ***Python***, los cuales puedo añadir a la lista de mis lenguajes favoritos, me encanta la idea de seguir innovando y experimentando día tras día, por lo que constantemente estoy explorando cosas nuevas.
 
----
+- 📍 Desde México, creando soluciones con propósito.
+- 🎯 Fullstack developer con foco actual en **Java + Spring Boot + Oracle**.
+- ⚡ Me apasiona construir interfaces con **Vue.js** y **Tailwind CSS**.
+- 🧠 Siempre aprendiendo: Kubernetes, Docker y Clean Code.
+- 🤝 Me interesa colaborar en proyectos **open source** e ideas disruptivas.
 
-🌱 I’m currently learning **Kubernetes, RabbitMQ and AI integrations**  
-💼 Working on **Groovy/SpringBoot** projects for scalable APIs  
-🧠 Interested in **clean architecture**, open-source, and dev automation  
-🎯 Goal for 2025: Build my own developer tools  
-📫 Reach me: **your.email@example.com**
+&nbsp;
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀️ Experiencia Técnica
+#### 🔹 Desarrollador de aplicaciones
+📍 Remoto · 🗓️ 2022 — Actualidad
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=apache-groovy&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![JSF](https://img.shields.io/badge/JSF-323330?style=flat&logo=java&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+- Backend: Java 8, Spring Boot, RESTful APIs, Oracle.
+- Frontend: JSF, PrimeFaces.
+- Pruebas: JUnit, Spock.
+- DevOps: Docker, Git, Linux, Bitbucked.
+- Proyectos internos con enfoque en mejoras, escalabilidad, mantenibilidad, testing y documentación técnica.
 
----
-
-### 🔥 Stats
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=juan-dev&show_icons=true&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=juan-dev&theme=tokyonight" />
-</p>
+&nbsp;
 
 ---
 
-### 📂 Featured Projects
+### 💻️ Stack
+#### 🔹Sistemas Operativos
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-- 🔭 [**API de Créditos**](https://github.com/juan-dev/api-creditos)  
-  Sistema de gestión de créditos con SpringBoot + RabbitMQ.
+#### 🔹Lenguajes
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- 🧪 [**TestSuite Groovy**](https://github.com/juan-dev/testsuite-groovy)  
-  Pruebas automatizadas con Spock y Jacoco.
+#### 🔹ORM
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+#### 🔹Frameworks
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+#### 🔹Librerias
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+
+#### 🔹Frameworks CSS
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### 🔹DataBase
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+#### 🔹Plataformas
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+&nbsp;
 
 ---
 
-### ✨ Let's Connect
+### 🌐️ Mis redes
+Puedes contactarme por los siguientes medios.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-dev)
-[![Dev.to](https://img.shields.io/badge/Dev.to-black?style=flat&logo=dev.to&logoColor=white)](https://dev.to/juan-dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-red?style=flat&logo=firefox-browser&logoColor=white)](https://juan-dev.dev) <!-- si tienes portafolio -->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juancalero942@gmail.com)
 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
